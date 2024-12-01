@@ -2,3 +2,4 @@ ipykernel
 NLTK
 pandas
 textblob
+emoji
