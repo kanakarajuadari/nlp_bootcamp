@@ -3,3 +3,4 @@ NLTK
 pandas
 textblob
 emoji
+scikit-learn
